@@ -4,6 +4,7 @@ This Docker image contains:
 * The official docker image of ruby:2.3.5
 * Nodejs 8.12.0
 * Yarn 1.12.1
+* ChromeDriver 2.41.578700
 
 ## Usage
 
@@ -32,3 +33,7 @@ Add `image: thylacinelol/docker-ruby-node` to your `bitbucket-pipelines.yml`
   ```
   docker push thylacinelol/docker-ruby-node:latest
   ```
+
+## Thanks
+
+morantron [@Morantron](https://twitter.com/Morantron) / [https://github.com/Morantron](https://github.com/Morantron)
