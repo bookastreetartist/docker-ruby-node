@@ -2,9 +2,8 @@
 
 This Docker image contains:
 * The official docker image of ruby:2.3.5
-* Nodejs 8.12.0
-* Yarn 1.12.1
-* ChromeDriver 2.41.578700
+* Nodejs 8.14.0
+* Yarn 1.12.3
 
 ## Usage
 
