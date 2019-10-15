@@ -1,7 +1,7 @@
 # Ruby + Nodejs Docker Image
 
 This Docker image contains:
-* ruby:2.5.7 (official)
+* ruby:2.6.5 (official)
 * nodejs 10.15.2
 * yarn 1.19.0
 * chromedriver 77.0.3865.40
