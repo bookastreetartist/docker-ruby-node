@@ -2,10 +2,10 @@
 
 This Docker image contains:
 * ruby:2.6.5 (official)
-* nodejs 10.15.2
-* yarn 1.19.0
-* chromedriver 77.0.3865.40
-* google-chrome 77.0.3865.90
+* nodejs v10.21.0
+* yarn 1.22.4
+* chromedriver 83.0.4103.39
+* google-chrome 83.0.4103.106
 
 ## Usage
 
